@@ -1,3 +1,3 @@
-# tap-synchrony
-A collection of two dimensional animations that are triggered by sound when we press any key.
-Made using HTML5, CSS and JS (Mainly Paper JS and Howler JS).
+# tap-synchrony(Paper JS & Howler JS used)
+
+Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes. Warning: contains flashing images.
