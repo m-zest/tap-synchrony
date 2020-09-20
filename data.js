@@ -41,7 +41,7 @@ var keyData = {
 				}),
 				color: '#27ae60'
 			},
-			s: {
+			i: {
 				sound: new Howl({
 		  		src: ['sounds/flash-3.mp3']
 				}),
